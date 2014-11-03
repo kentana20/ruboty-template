@@ -1,6 +1,6 @@
 GIT
   remote: https://gist.github.com/e0f5147312c921ba6ee0.git
-  revision: 205c4d00fbe1e9459b735d1a599d6dcb3b879a2d
+  revision: 5c8ffa8d95fdeb6426d3c58745dddd0ac6bc67e1
   specs:
     nfu (0.0.1)
 
