@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kentana20/ruboty-template.svg?branch=f%2Fadd_travis)](https://travis-ci.org/kentana20/ruboty-template)
+
 # ruboty-template
 A template to create and deploy your [ruboty](https://github.com/r7kamura/ruboty) on slack.
 
@@ -10,8 +12,6 @@ Press "Deploy to Heroku" button and fill in a form to deploy Ruboty to heroku.
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ![](images/deploy.gif)
-
-[![Build Status](https://travis-ci.org/kentana20/ruboty-template.svg?branch=f%2Fadd_travis)](https://travis-ci.org/kentana20/ruboty-template)
 
 ## 2. Add dyno
 Because Heroku doesn't create dyno by default,
