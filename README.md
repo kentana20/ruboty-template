@@ -11,6 +11,8 @@ Press "Deploy to Heroku" button and fill in a form to deploy Ruboty to heroku.
 
 ![](images/deploy.gif)
 
+[![Build Status](https://travis-ci.org/kentana20/ruboty-template.svg?branch=f%2Fadd_travis)](https://travis-ci.org/kentana20/ruboty-template)
+
 ## 2. Add dyno
 Because Heroku doesn't create dyno by default,
 you need to add 1 dyno from [dashboard](https://dashboard-next.heroku.com/apps).
