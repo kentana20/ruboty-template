@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kentana20/ruboty-template.svg?branch=f%2Fadd_travis)](https://travis-ci.org/kentana20/ruboty-template)
+
 # ruboty-template
 A template to create and deploy your [ruboty](https://github.com/r7kamura/ruboty) on slack.
 
